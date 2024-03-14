@@ -17,7 +17,6 @@ namespace CSProjeDemo1.Abstract
         public string Baslik { get; set; }
         public string Yazar { get; set; }
         public string YayinEvi { get; set; }
-        public string Yayin { get; set; }
         public DateTime YayinYili { get; set; }
 
         private Durum _durum;
